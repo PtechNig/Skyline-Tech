@@ -53,3 +53,8 @@ table caption{
     background-color: rgb(175, 221, 221);
 }
 
+.container table tbody button{
+    background: transparent;
+    border: 1px solid green;
+    padding: 5px 8px;
+}
