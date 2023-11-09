@@ -1,9 +1,8 @@
 This branch contains a table with information of each Obidient Tech Space Student in Cohort 12.
-Specifically, the table is captioned Student Exam Grade with 6 columns which are:
-Student id
+Specifically, the table is captioned Skyline ICT Student Records with 6 columns which are:
+Serial Number
 Student name
 Courses
 Passcode
-Score and Grade.
-
-X icon is used to denote scores below 60% while check icon is used to denote scores above 70%.`
+Cohort
+Approved
